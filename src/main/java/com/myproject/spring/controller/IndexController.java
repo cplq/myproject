@@ -1,4 +1,4 @@
-package com.myproject.spring.Controller;/**
+package com.myproject.spring.controller;/**
  * @Author: ChenPeng
  * @Date: 2019-09-02 20:28
  * @Version 1.0
@@ -6,9 +6,7 @@ package com.myproject.spring.Controller;/**
 
 
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 
 /**
  * @program: spring
